@@ -1,9 +1,7 @@
-Hi, I'm Fajar 👋
+Hi, I'm Daniel 👋
 ---
 **📌About** <br>
-Hi, I'm Muhamad Fajar, also known as Fajarnadril. I specialize in XR development, visual design, research, and teaching. I've created various educational apps for institutions and state-owned enterprises, highlighting my skills in XR and visual design.
-
-I'm passionate about immersive technology, especially XR applications. I develop training and simulation apps for health and safety, educational applications, and engaging immersive marketing content.
+Hi, I'm Daniel Suryanto, also known as Daniel. I specialize in Game design and Level design.
 
 **📩Email** <br>
 hi@fajar.io
