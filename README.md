@@ -2,6 +2,7 @@ Hi, I'm Daniel 👋
 ---
 **📌About** <br>
 Hi, I'm Currently a student at Bina Nusantara University, majoring in Game Application and Technology 🎮 
+
 I specialize in Game design and Level design.
 
 **📩Email** <br>
