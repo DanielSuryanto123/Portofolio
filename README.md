@@ -1,10 +1,11 @@
 Hi, I'm Daniel 👋
 ---
 **📌About** <br>
-Hi, I'm Daniel Suryanto, also known as Daniel. I specialize in Game design and Level design.
+Hi, I'm Currently a student at Bina Nusantara University, majoring in Game Application and Technology 🎮 
+I specialize in Game design and Level design.
 
 **📩Email** <br>
-hi@fajar.io
+<a href="mailto:danielsuryanto901@gmail.com">Daniel Suryanto</a>
 
 <br>
 
