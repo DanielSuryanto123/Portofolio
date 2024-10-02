@@ -35,7 +35,7 @@ I specialize in Game design and Level design.
       <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> <!--link1-->
+      <td align="center"><a href="https://youtu.be/9RwvVq6nZno">Trailer</a></td> <!--link1-->
       <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer</a></td> <!--link2-->
     </tr>
   </tbody>
