@@ -20,7 +20,7 @@ I specialize in Game design and Level design.
   <tbody>
     <tr>
       <td align="center">
-        <img src="![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e95284ca-de3a-4347-9b6e-f620eeedccfa)" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/user-attachments/assets/e95284ca-de3a-4347-9b6e-f620eeedccfa" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="2" style="width:100%;height:auto;">
