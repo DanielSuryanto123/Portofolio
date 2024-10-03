@@ -14,7 +14,7 @@ I specialize in Game design and Level design.
   <thead>
     <tr>
       <th width="50%" align="center"><a>Health Saga </a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Hopeless</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>=====</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -23,7 +23,7 @@ I specialize in Game design and Level design.
         <img src="https://github.com/user-attachments/assets/e95284ca-de3a-4347-9b6e-f620eeedccfa" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="2" style="width:100%;height:auto;">
+        <img src="GIF" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
@@ -32,11 +32,11 @@ I specialize in Game design and Level design.
     </tr>
     <tr>
       <td align="center"><a href="https://danielsuryanto.itch.io/health-saga">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link2-->
+      <td align="center"><a href="======">Read More</a></td> <!--link2-->
     </tr>
     <tr>
       <td align="center"><a href="https://youtu.be/9RwvVq6nZno">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer</a></td> <!--link2-->
+      <td align="center"><a href="=======">Trailer</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
