@@ -20,7 +20,7 @@ I specialize in Game design and Level design.
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/e95284ca-de3a-4347-9b6e-f620eeedccfa" alt="1" style="width:100%;height:auto;">
+        <img src="GIF" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
         <img src="GIF" alt="2" style="width:100%;height:auto;">
