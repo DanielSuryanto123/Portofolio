@@ -35,7 +35,7 @@ I specialize in Game design and Level design.
       <td align="center"><a href="======">Read More</a></td> <!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://youtu.be/9RwvVq6nZno">Trailer</a></td> <!--link1-->
+      <td align="center"><a href="https://youtu.be/2BOrWJEPC2U?si=AugcBMtXAwZ-1T4j">Trailer</a></td> <!--link1-->
       <td align="center"><a href="======">Trailer</a></td> <!--link2-->
     </tr>
   </tbody>
